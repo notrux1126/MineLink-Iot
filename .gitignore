@@ -67,3 +67,14 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+#Python
+__pycache__/
+*.py[cod]
+
+#EasyEDA temporales
+*.pwi
+*.bak
+
+#ESP32
+/build/
