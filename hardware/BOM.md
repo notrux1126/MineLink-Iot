@@ -10,7 +10,7 @@ Este documento detalla todos los componentes electrónicos necesarios para el en
 ## 1. Etapa de Gestión de Energía (Power Management)
 | Ítem | Designador | Descripción | Cantidad |
 | :--- | :--- | :--- | :---: |
-| 1.1 | U6 | ESP32 DevKit V1 (30 pines) | 1 |
+| 1.1 | U6.1 | ESP32 DevKit V1 (30 pines) | 1 |
 | 1.2 | - | Cable C-USB (Programación/Alimentación) | 1 |
 
 ## 2. Etapa de Control y Conectividad
